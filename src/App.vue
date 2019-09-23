@@ -24,7 +24,7 @@ export default {
         },
         {
           id: 2,
-          name: 'Bertram Gilfoyle',
+          name: 'Kerem Gilfoyle',
           email: 'gilfoyle@piedpiper.com',
         },
         {
