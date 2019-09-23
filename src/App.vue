@@ -29,7 +29,7 @@ export default {
         },
         {
           id: 3,
-          name: 'Dinesh Chugtai',
+          name: 'Test Chugtai',
           email: 'dinesh@piedpiper.com',
         },
       ],
