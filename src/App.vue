@@ -19,7 +19,7 @@ export default {
       users: [
         {
           id: 1,
-          name: 'Richard Hendricks',
+          name: 'Kerem Hallaç',
           email: 'richard@piedpiper.com',
         },
         {
