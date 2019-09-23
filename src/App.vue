@@ -20,7 +20,7 @@ export default {
         {
           id: 1,
           name: 'Kerem Hallaç',
-          email: 'richard@piedpiper.com',
+          email: 'hallackerem@gmail.com',
         },
         {
           id: 2,
